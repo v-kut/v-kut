@@ -1,4 +1,5 @@
 Junior at University of Washington studying ECE during the day, https://github.com/cod3ddot during the night.
 
-[Codeberg](https://codeberg.org/vkut)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=for-the-badge)](https://codeberg.org/vkut)
+
 [PGP](https://keys.openpgp.org/search?q=vsevolodkutsyn@proton.me)
