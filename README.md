@@ -1,3 +1,4 @@
-Sophomore at University of Washington studying ECE during the day, https://github.com/cod3ddot during the night.
+Junior at University of Washington studying ECE during the day, https://github.com/cod3ddot during the night.
 
+[Codeberg](https://codeberg.org/vkut)
 [PGP](https://keys.openpgp.org/search?q=vsevolodkutsyn@proton.me)
