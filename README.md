@@ -1,6 +1,4 @@
 ![header](./assets/repo_header.svg)
 
 Junior at University of Washington studying ECE during the day, fooling around with code during the night.
-
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=for-the-badge)](https://codeberg.org/vkut)
-[![PGP](https://custom-icon-badges.demolab.com/badge/-PGP-white?logo=keys-openpgp&style=for-the-badge)](https://keys.openpgp.org/search?q=vsevolodkutsyn@proton.me)
+My projects are usually self-hosted at [https://git.vkut.me](https://git.vkut.me).
